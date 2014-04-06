@@ -10,11 +10,6 @@
     "branch": "kk4.4"
   },
   {
-    "repository": "SlimRoms/device_samsung_jf-common",
-    "target_path": "device/samsung/jf-common",
-    "branch": "kk4.4"
-  },
-  {
     "repository": "SlimRoms/kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
     "branch": "kk4.4"
