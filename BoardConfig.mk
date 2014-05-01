@@ -24,6 +24,7 @@
 -include device/samsung/msm8960-common/BoardConfigCommon.mk
 
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/jflte/include
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
 
 # Kernel
 TARGET_KERNEL_SOURCE         := kernel/samsung/jf
