@@ -37,9 +37,6 @@ TARGET_KERNEL_SELINUX_CONFIG := jfselinux_defconfig
 
 TARGET_BOOTLOADER_BOARD_NAME := MSM8960
 
-# linaro
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro-4.7-12.10/bin/arm-linux-gnueabihf-
-
 
 # WiFi module
 WIFI_DRIVER_MODULE_PATH := "/system/lib/modules/dhd.ko"
